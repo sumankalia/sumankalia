@@ -6,7 +6,7 @@ I'm currently working with a UK company and a wonderful international team remot
 
 I've a great interest in building great solutions and learn new technologies.
 
-Beside from the a full time coding job. I do like to create content for my youtube channel - [Suman Kalia](https://www.youtube.com/channel/UCCZekpXafiuoRFzLrm_ji8g)
+Beside from the full time development job. I do like to create content for my youtube channel - [Suman Kalia](https://www.youtube.com/channel/UCCZekpXafiuoRFzLrm_ji8g)
 
 🔗 Links
 [Linkedin](https://www.linkedin.com/in/suman-kumar-078b4140/) [dev.to](https://dev.to/sumankalia)
