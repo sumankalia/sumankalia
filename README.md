@@ -9,10 +9,8 @@ I've a great interest in building great solutions and learn new technologies.
 Beside from the a full time coding job. I do like to create content for my youtube channel - [Suman Kalia](https://www.youtube.com/channel/UCCZekpXafiuoRFzLrm_ji8g)
 
 🔗 Links
-linked-in(https://www.linkedin.com/in/suman-kumar-078b4140/) dev.to(https://dev.to/sumankalia) medium(https://medium.com/@suman.kalia235)
-
-📫 How to reach me:
-[Email](mailto:suman.kalia235@gmail.com)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+(https://www.linkedin.com/in/suman-kumar-078b4140/) dev.to(https://dev.to/sumankalia) medium(https://medium.com/@suman.kalia235)
 
 <!--
 **sumankalia/sumankalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
