@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Suman Kumar. I am a full-stack web developer(specializing in React and Node Applications). I have been working in web development after completing my masters in Computer Applications from 2019.
+😄 I'm Suman Kumar. I am a full-stack web developer(specializing in React and Node Applications). I have been working in web development after completing my masters in Computer Applications from 2019.
 
-I'm currently working with a UK company and a wonderful international team remotely. The technologies we are working is MeteorJs on top of React and Node.
+🔭 I'm currently working with a UK company and a wonderful international team remotely. The technologies we are working is MeteorJs on top of React and Node.
 
-I've a great interest in building great solutions and learn new technologies.
+💬 I've a great interest in building great solutions and learn new technologies.
 
-Beside from the full time development job. I do like to create content for my youtube channel - [Suman Kalia](https://www.youtube.com/channel/UCCZekpXafiuoRFzLrm_ji8g)
+📫 Beside from the full time development job. I do like to create content for my youtube channel - [Suman Kalia](https://www.youtube.com/channel/UCCZekpXafiuoRFzLrm_ji8g)
 
 🔗 [Linkedin](https://www.linkedin.com/in/suman-kumar-078b4140/)
 🔗 [Dev.to](https://dev.to/sumankalia)
