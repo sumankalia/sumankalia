@@ -7,8 +7,8 @@
 💬 I've a great interest in building great solutions and learn new technologies.
 
 🔗 [Linkedin](https://www.linkedin.com/in/suman-kumar-078b4140/) 
-🔗 [Medium](https://medium.com/@suman.kalia235) 
-🔗 [Dev.to](https://dev.to/sumankalia)
+🔗 [Medium](https://medium.com/@suman.kalia235/) 
+🔗 [Dev.to](https://dev.to/sumankalia/)
 
 <!--
 **sumankalia/sumankalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
