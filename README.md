@@ -6,7 +6,7 @@
 
 💬 I've a great interest in building great solutions and learn new technologies.
 
-🔗 [Linkedin](https://www.linkedin.com/in/suman-kumar-078b4140/)
+🔗 [Linkedin](https://www.linkedin.com/in/suman-kumar-078b4140/) 🔗 [Medium]([https://www.linkedin.com/in/suman-kumar-078b4140/](https://medium.com/@suman.kalia235) 🔗 [Dev.to]([https://www.linkedin.com/in/suman-kumar-078b4140/](https://dev.to/sumankalia))
 
 <!--
 **sumankalia/sumankalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
